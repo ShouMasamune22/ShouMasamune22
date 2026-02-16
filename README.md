@@ -1,38 +1,46 @@
-<h1 align="center">💻 Suo Tatsuya</h1>
-<h3 align="center">FiveM Developer • Web Developer • Android Developer</h3>
+<h1 align="center">
+💻 Suo Tatsuya
+</h1>
+
+<h3 align="center">
+FiveM Developer • Web Developer • Android Developer
+</h3>
 
 <p align="center">
 Menyatukan dunia <b>gaming</b> dan <b>programming</b> dalam satu workflow.  
-Membangun sistem yang <b>stabil</b>, <b>efisien</b>, dan <b>siap produksi</b>.
+Membangun sistem <b>stabil, efisien, & siap produksi</b> dengan gaya hacker terminal.
 </p>
 
 <!-- Terminal Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=600&color=00FF9C&center=true&vCenter=true&width=650&lines=Booting+FiveM+engine...;Compiling+Lua+scripts...;Loading+Web+dashboard...;Deploying+Android+modules...;System+online+%F0%9F%94%92" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00FF9C&center=true&vCenter=true&width=650&lines=Booting+FiveM+engine...;Compiling+Lua+scripts...;Initializing+Web+Dashboard...;Deploying+Android+modules...;System+online+%F0%9F%94%92" />
 </p>
 
-<br>
+<!-- Cyber Grid Background -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" />
+</p>
 
+<!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165"/>
 </div>
 
 <!-- Small Dragon Animation -->
-<img align="right" height="110" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" />
+<img align="right" height="120" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" />
 
-<h3>👨‍💻 Siapa Saya</h3>
+<h3>👨‍💻 Tentang Saya</h3>
 <p>
-Saya adalah developer yang percaya bahwa <b>kode adalah seni</b> dan  
-<b>server adalah dunia</b>.  
-Mengembangkan <b>FiveM server</b>, <b>website</b>, dan <b>aplikasi Android</b>  
-dengan fokus pada <b>stabilitas</b>, <b>performa</b>, dan <b>scalability</b>.
+Developer dengan mindset <b>programmer</b> + <b>hacker aesthetic</b>.  
+Membangun <b>FiveM server</b>, <b>website</b>, dan <b>aplikasi Android</b>  
+dengan fokus pada <b>performa</b>, <b>stabilitas</b>, dan <b>scalability</b>.
 </p>
 
 <ul>
-  <li>🚓 FiveM — scripting, job system, UI, optimization</li>
-  <li>🌐 Web — backend, REST API, admin dashboard</li>
-  <li>📱 Android — aplikasi native Java</li>
+  <li>🚓 FiveM — scripting, jobs, optimization, UI</li>
+  <li>🌐 Web — backend, API, dashboard, system logic</li>
+  <li>📱 Android — native Java apps</li>
 </ul>
 
 <h3>🧠 Filosofi Koding</h3>
@@ -46,25 +54,24 @@ dengan fokus pada <b>stabilitas</b>, <b>performa</b>, dan <b>scalability</b>.
 
 <h3>🛠 Bahasa & Teknologi</h3>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" title="Lua (FiveM)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="45" title="Lua (FiveM)" />
 </div>
 
 <h3>🌐 Kontak & Kolaborasi</h3>
 <p>
-Terbuka untuk <b>proyek serius</b>, pengembangan server FiveM,  
+Terbuka untuk proyek serius, pengembangan server FiveM,  
 atau diskusi teknis antar programmer.
 </p>
-
 <div>
   <a href="https://discord.gg/YOUR_INVITE">
     <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
@@ -79,4 +86,5 @@ atau diskusi teknis antar programmer.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/Y_
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
