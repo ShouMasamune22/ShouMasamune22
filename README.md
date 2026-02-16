@@ -1,80 +1,84 @@
-<h1 align="center">🎮 Suo Tatsuya</h1>
+<h1 align="center">
+💻 Suo Tatsuya
+</h1>
 
 <h3 align="center">
 FiveM Developer • Web Developer • Android Developer
 </h3>
 
 <p align="center">
-Membangun sistem dengan pendekatan <b>programmer mindset</b>:
+Berpikir seperti programmer, membangun sistem seperti engineer.
 <br>
-struktur rapi, performa optimal, dan siap digunakan dalam skala besar.
+Fokus pada arsitektur kode, performa server, dan stabilitas sistem.
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=80" width="100%" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </div>
 
 <br>
 
-<img align="right" height="170" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" />
+<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 <h3>👨‍💻 Tentang Saya</h3>
 
 <p>
-Saya adalah developer dengan latar belakang <b>programming</b> dan <b>gaming</b>,
-berfokus pada pengembangan <b>server FiveM</b>, <b>aplikasi web</b>,
-dan <b>aplikasi Android</b>.
+Saya adalah developer dengan pendekatan <b>problem solving</b> dan
+<b>programmer mindset</b>, berfokus pada pengembangan
+<b>server FiveM</b>, <b>aplikasi web</b>, dan <b>aplikasi Android</b>.
 </p>
 
 <p>
-Terbiasa mengembangkan sistem yang digunakan banyak user secara bersamaan,
-dengan perhatian tinggi pada <b>arsitektur kode</b>,
-<b>efisiensi resource</b>, dan <b>stabilitas server</b>.
+Terbiasa mengelola sistem yang berjalan terus-menerus,
+digunakan banyak user, dan menuntut <b>performa tinggi</b>
+serta <b>stabilitas jangka panjang</b>.
 </p>
 
 <ul>
-  <li>🚓 FiveM — scripting, framework server, optimization</li>
-  <li>🌐 Web — frontend, backend, REST API, dashboard</li>
-  <li>📱 Android — aplikasi native berbasis Java</li>
+  <li>🚓 FiveM — scripting, framework, optimization, server logic</li>
+  <li>🌐 Web — backend, REST API, dashboard</li>
+  <li>📱 Android — aplikasi native Java</li>
 </ul>
 
-<h3>🧠 Cara Saya Menulis Kode</h3>
+<h3>🧠 Pola Kerja</h3>
 
 <pre>
-• Struktur jelas dan konsisten
-• Mudah dibaca & dikembangkan
-• Optimal untuk performa
-• Siap dipakai jangka panjang
+> Analisis masalah
+> Desain arsitektur sistem
+> Implementasi dengan kode rapi
+> Optimasi & testing
+> Deploy ke production
 </pre>
 
 <h3>🛠 Bahasa & Teknologi</h3>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" title="Lua (FiveM)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="42" />
 </div>
 
 <h3>🌐 Kontak & Kolaborasi</h3>
 
 <p>
-Terbuka untuk kolaborasi proyek, pengembangan server FiveM,
-pembuatan sistem, maupun diskusi teknis antar developer.
+Terbuka untuk kolaborasi proyek serius,
+pengembangan server FiveM,
+atau diskusi teknis antar programmer.
 </p>
 
 <div>
@@ -91,4 +95,4 @@ pembuatan sistem, maupun diskusi teknis antar developer.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
