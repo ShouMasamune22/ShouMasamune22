@@ -8,23 +8,16 @@ Membangun sistem <b>stabil, efisien, dan siap produksi</b>.
 
 <!-- Terminal Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=500&color=00FF9C&center=true&vCenter=true&width=650&lines=Booting+FiveM+engine...;Compiling+Lua+scripts...;Initializing+Web+Dashboard...;Deploying+Android+modules...;System+online+%F0%9F%94%92" />
-</p>
-
-<!-- Progress bar simulated with badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Progress-Loading%20FiveM-green?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Progress-Web%20Dashboard-yellow?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Progress-Android%20Modules-blue?style=for-the-badge&logo=appveyor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00FF9C&center=true&vCenter=true&width=650&lines=Booting+FiveM+engine...;Compiling+Lua+scripts...;Initializing+Web+Dashboard...;Deploying+Android+modules...;System+online+%F0%9F%94%92" />
 </p>
 
 <!-- Stats GitHub -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=6" height="160"/>
 </div>
 
-<!-- Small Pixel Dragon (SVG) -->
+<!-- Pixel Dragon (SVG) -->
 <p align="right">
 <svg width="80" height="80" viewBox="0 0 24 24" fill="#00FF9C" xmlns="http://www.w3.org/2000/svg">
   <path d="M12 2L14 8H20L15 12L17 18L12 14L7 18L9 12L4 8H10L12 2Z"/>
