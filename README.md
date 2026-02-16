@@ -1,45 +1,46 @@
-<h1 align="center">
-💻 Suo Tatsuya
-</h1>
-
-<h3 align="center">
-FiveM Developer • Web Developer • Android Developer
-</h3>
+<h1 align="center">💻 Suo Tatsuya</h1>
+<h3 align="center">FiveM Developer • Web Developer • Android Developer</h3>
 
 <p align="center">
-Menyatukan dunia <b>gaming</b> dan <b>programming</b> dalam satu workflow.  
-Membangun sistem <b>stabil, efisien, & siap produksi</b> dengan gaya hacker terminal.
+Menggabungkan <b>programming</b> & <b>gaming</b> dalam satu workflow.  
+Membangun sistem <b>stabil, efisien, dan siap produksi</b>.
 </p>
 
 <!-- Terminal Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00FF9C&center=true&vCenter=true&width=650&lines=Booting+FiveM+engine...;Compiling+Lua+scripts...;Initializing+Web+Dashboard...;Deploying+Android+modules...;System+online+%F0%9F%94%92" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=500&color=00FF9C&center=true&vCenter=true&width=650&lines=Booting+FiveM+engine...;Compiling+Lua+scripts...;Initializing+Web+Dashboard...;Deploying+Android+modules...;System+online+%F0%9F%94%92" />
 </p>
 
-<!-- Cyber Grid Background -->
+<!-- Progress bar simulated with badges -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" />
+  <img src="https://img.shields.io/badge/Progress-Loading%20FiveM-green?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Progress-Web%20Dashboard-yellow?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Progress-Android%20Modules-blue?style=for-the-badge&logo=appveyor" />
 </p>
 
-<!-- Stats -->
+<!-- Stats GitHub -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160"/>
 </div>
 
-<!-- Small Dragon Animation -->
-<img align="right" height="120" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" />
+<!-- Small Pixel Dragon (SVG) -->
+<p align="right">
+<svg width="80" height="80" viewBox="0 0 24 24" fill="#00FF9C" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12 2L14 8H20L15 12L17 18L12 14L7 18L9 12L4 8H10L12 2Z"/>
+</svg>
+</p>
 
 <h3>👨‍💻 Tentang Saya</h3>
 <p>
-Developer dengan mindset <b>programmer</b> + <b>hacker aesthetic</b>.  
+Developer dengan mindset <b>programmer + gamer</b>.  
 Membangun <b>FiveM server</b>, <b>website</b>, dan <b>aplikasi Android</b>  
 dengan fokus pada <b>performa</b>, <b>stabilitas</b>, dan <b>scalability</b>.
 </p>
 
 <ul>
-  <li>🚓 FiveM — scripting, jobs, optimization, UI</li>
-  <li>🌐 Web — backend, API, dashboard, system logic</li>
+  <li>🚓 FiveM — scripting, jobs, UI, optimization</li>
+  <li>🌐 Web — backend, REST API, dashboard, system logic</li>
   <li>📱 Android — native Java apps</li>
 </ul>
 
