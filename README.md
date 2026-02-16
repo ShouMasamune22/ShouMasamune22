@@ -2,18 +2,17 @@
 <h3 align="center">FiveM Developer • Web Developer • Android Developer</h3>
 
 <p align="center">
-Developer dengan gaya <b>terminal hacker</b> & <b>programmer mindset</b>.  
-Membangun sistem server, web, dan aplikasi Android yang <b>stabil</b> & <b>efisien</b>.
+Menyatukan dunia <b>gaming</b> dan <b>programming</b> dalam satu workflow.  
+Membangun sistem yang <b>stabil</b>, <b>efisien</b>, dan <b>siap produksi</b>.
 </p>
 
 <!-- Terminal Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=600&color=00FF9C&center=true&vCenter=true&width=650&lines=Booting+FiveM+server...;Loading+Java+modules...;Compiling+Lua+scripts...;Initializing+Web+Dashboard...;System+Ready+%F0%9F%94%92" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=600&color=00FF9C&center=true&vCenter=true&width=650&lines=Booting+FiveM+engine...;Compiling+Lua+scripts...;Loading+Web+dashboard...;Deploying+Android+modules...;System+online+%F0%9F%94%92" />
 </p>
 
 <br>
 
-<!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="160"/>
@@ -22,26 +21,27 @@ Membangun sistem server, web, dan aplikasi Android yang <b>stabil</b> & <b>efisi
 <!-- Small Dragon Animation -->
 <img align="right" height="110" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" />
 
-<h3>👨‍💻 Tentang Saya</h3>
+<h3>👨‍💻 Siapa Saya</h3>
 <p>
-Saya adalah developer dengan pendekatan <b>systematic & programmer mindset</b>,  
-berfokus pada pengembangan <b>FiveM server</b>, <b>website</b>, dan <b>aplikasi Android</b>.  
-Membuat sistem yang <b>stabil</b>, <b>mudah dikembangkan</b>, dan <b>optimal</b>.
+Saya adalah developer yang percaya bahwa <b>kode adalah seni</b> dan  
+<b>server adalah dunia</b>.  
+Mengembangkan <b>FiveM server</b>, <b>website</b>, dan <b>aplikasi Android</b>  
+dengan fokus pada <b>stabilitas</b>, <b>performa</b>, dan <b>scalability</b>.
 </p>
 
 <ul>
-  <li>🚓 FiveM — scripting, job system, optimization, UI</li>
-  <li>🌐 Web — backend, dashboard, REST API</li>
+  <li>🚓 FiveM — scripting, job system, UI, optimization</li>
+  <li>🌐 Web — backend, REST API, admin dashboard</li>
   <li>📱 Android — aplikasi native Java</li>
 </ul>
 
-<h3>🧠 Pola Kerja</h3>
+<h3>🧠 Filosofi Koding</h3>
 <pre>
-$ analyze problem
-$ design system architecture
-$ write clean & readable code
-$ optimize performance
-$ deploy to production
+> Problem = Challenge
+> Struktur = Senjata
+> Kode bersih = Kekuatan
+> Optimasi = Kunci kemenangan
+> Deploy = Eksekusi sempurna
 </pre>
 
 <h3>🛠 Bahasa & Teknologi</h3>
@@ -61,9 +61,10 @@ $ deploy to production
 
 <h3>🌐 Kontak & Kolaborasi</h3>
 <p>
-Terbuka untuk kolaborasi proyek serius, pengembangan server FiveM,  
+Terbuka untuk <b>proyek serius</b>, pengembangan server FiveM,  
 atau diskusi teknis antar programmer.
 </p>
+
 <div>
   <a href="https://discord.gg/YOUR_INVITE">
     <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
@@ -78,4 +79,4 @@ atau diskusi teknis antar programmer.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/Y_
